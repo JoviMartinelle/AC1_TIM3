@@ -1,0 +1,100 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+.esquerda {
+    justify-content: flex-start;
+    width: 495px;
+    height: 467px;
+    margin-top: 135px;
+    margin-left: 120px;
+
+}
+
+.direita {
+    display: flex;
+    width: 654px;
+    height: 825px;
+    margin-left: 45px;
+}
+
+.imgdireita {
+   width: 302px;
+    height: 348px; 
+    display: flex;
+}
+
+.imgesquerda{
+    margin-top: 91px;
+    justify-content: space-between;
+    width: 495px;
+    height: 148px;
+    display: flex;
+    column-gap: 24px;
+}
+
+h1 {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 36px;
+    line-height: auto;
+    color: #333333;
+    
+}
+
+p {
+    font-family: "Lato", sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #333333;
+    margin-top: 24px;
+    margin-left: 4px;
+    margin-right: 4px;
+    text-align: justify;
+    width: 480px;
+    height: 60px;
+
+}
+
+button{
+    margin-top: 35px;
+    margin-left: 136px;
+    color: #ffffff;
+    background-color: #333333;
+    border-radius: 40px;
+    width: 222px;
+    height: 66px;
+    font-family: "Lato", sans-serif;
+    font-style: normal;
+    font-size: 22px;
+    line-height: 18px;
+}
+
+.azuldoces{
+    margin-top: 42px;
+}
+.doces{
+    margin-top: 48px;
+}
+
+.roscarosa{
+    margin-top: 43px;
+    margin-left: 48px;
+}
+
+.rosca{
+    margin-top: 81px;
+}
+
+.roscarosaimg{
+    margin-top: 48px;
+}
